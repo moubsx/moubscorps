@@ -8,6 +8,8 @@ To delete your account, please follow these steps:
 
 ## Data Deletion Requests
 If you want to request the deletion of your personal data:
-- Contact our support team at support@example.com with the subject line "Data Deletion Request".
+- Contact our support team at 
+Delete account URL mailto:matchpulse.app@gmail.com?subject=Data%20Deletion%20Request
+Enter a valid URL with the subject line "Data Deletion Request".
 - Provide the necessary information to verify your identity.
 - Your request will be processed in accordance with our privacy policies.
